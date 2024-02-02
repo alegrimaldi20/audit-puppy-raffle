@@ -622,6 +622,6 @@ PuppyRaffle.raffleDuration (src/PuppyRaffle.sol#21) should be immutable
 - MEV with the refund function. 
 - MEV with withdrawfees
 
-- randomness for rarity issue
+- randomness for rarity issue.
 
-- reentrancy puppy raffle before safemint (it looks ok actually, potentially informational)
+- reentrancy puppy raffle before safemint (it looks ok actually, potentially informational).
