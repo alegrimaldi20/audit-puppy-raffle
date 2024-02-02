@@ -617,8 +617,6 @@ PuppyRaffle.raffleDuration (src/PuppyRaffle.sol#21) should be immutable
 
 ## Gas (Optional)
 
-// TODO
-
 - `getActivePlayerIndex` returning 0. Is it the player at index 0? Or is it invalid. 
 
 - MEV with the refund function. 
