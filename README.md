@@ -620,8 +620,6 @@ PuppyRaffle.raffleDuration (src/PuppyRaffle.sol#21) should be immutable
 - `getActivePlayerIndex` returning 0. Is it the player at index 0? Or is it invalid. 
 
 - MEV with the refund function. 
-- MEV with withdrawfees
-
-- randomness for rarity issue.
-
-- reentrancy puppy raffle before safemint (it looks ok actually, potentially informational).
+- MEV with withdrawfees.
+- Randomness for rarity issue.
+- Reentrancy puppy raffle before safemint (it looks ok actually, potentially informational).
