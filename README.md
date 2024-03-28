@@ -1,6 +1,6 @@
 # Puppy Raffle Audit Report
 
-Prepared by: Luis Grimaldi
+Prepared by: Luis Alejandro Grimaldi
 
 Assisting Auditors:
 
