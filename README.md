@@ -192,7 +192,7 @@ function testTotalFeesOverflow() public playersEntered {
 
 **Recommended Mitigation:** There are a few recommended mitigations here.
 
-1. Use a newer version of Solidity that does not allow integer overflows by default.
+1. Use a newer version of Solidity that does not allow integer overflows by default
 
 ```diff 
 - pragma solidity ^0.7.6;
