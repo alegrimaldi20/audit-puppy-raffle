@@ -35,7 +35,7 @@ A player who has entered the raffle could have a `fallback`/`receive` function t
 
 1. Users enters the raffle.
 2. Attacker sets up a contract with a `fallback` function that calls `PuppyRaffle::refund`.
-3. Attacker enters the raffle
+3. Attacker enters the raffle.
 4. Attacker calls `PuppyRaffle::refund` from their contract, draining the contract balance.
 
 **Proof of Code:** 
