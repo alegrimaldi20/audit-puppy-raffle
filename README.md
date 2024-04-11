@@ -148,7 +148,7 @@ totalFees = 153255926290448384;
 require(address(this).balance == uint256(totalFees), "PuppyRaffle: There are currently players active!");
 ```
 
-Although you could use `selfdestruct` to send ETH to this contract in order for the values to match and withdraw the fees, this is clearly not what the protocol is intended to do. 
+Although you could use `selfdestruct` to send ETH to this contract in order for the values to match and withdraw the fees, this is clearly not what the protocol is intended to do 
 
 <details>
 <summary>Proof Of Code</summary>
